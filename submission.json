@@ -1,14 +1,14 @@
 {
   "schemaVersion": "1.0",
   "caseId": "DPI-HT-01",
-  "revision": "2026-09-23-student-review-confirmed-v2",
+  "revision": "2026-09-23-student-review-confirmed-v3",
   "student": {
     "name": "Viktorija Skrinda",
     "id": "class-list-73",
     "idBasis": "Public class-list entry 73, not an invented university student number.",
     "personalAttestation": true,
     "attestationDate": "2026-09-23",
-    "attestationNote": "The student confirmed that she personally reviewed all 100 decisions, the 25 material explanations, the statement effects and the disclosed qualifications, and can explain them. This confirmation was supplied for public publication on 23 September 2026."
+    "attestationNote": "The student confirmed on 23 September 2026 that she reviewed the 100 decisions and 25 material explanations and chose to keep the published conclusions, statement effects and qualifications. This confirmation was supplied for public publication."
   },
   "entity": "Divorce Party International Ltd.",
   "period": {
