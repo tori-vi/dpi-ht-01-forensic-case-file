@@ -4,11 +4,11 @@
   "rewrites": [
     {
       "source": "/review",
-      "destination": "/index.html"
+      "destination": "/index"
     },
     {
       "source": "/review/",
-      "destination": "/index.html"
+      "destination": "/index"
     }
   ],
   "headers": [
