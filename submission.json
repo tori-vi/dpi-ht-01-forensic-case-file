@@ -1,13 +1,14 @@
 {
   "schemaVersion": "1.0",
   "caseId": "DPI-HT-01",
-  "revision": "2026-09-23-feedback-review-v1",
+  "revision": "2026-09-23-student-review-confirmed-v2",
   "student": {
     "name": "Viktorija Skrinda",
     "id": "class-list-73",
     "idBasis": "Public class-list entry 73, not an invented university student number.",
-    "personalAttestation": false,
-    "attestationNote": "Answers are fully populated with AI assistance at the student’s request. No personal review attestation is inferred from a request to write or publish. The student can record it in the review controls after reading the work."
+    "personalAttestation": true,
+    "attestationDate": "2026-09-23",
+    "attestationNote": "The student confirmed that she personally reviewed all 100 decisions, the 25 material explanations, the statement effects and the disclosed qualifications, and can explain them. This confirmation was supplied for public publication on 23 September 2026."
   },
   "entity": "Divorce Party International Ltd.",
   "period": {
@@ -3269,7 +3270,7 @@
       "Added the actual 312,000-to-61,000 management profit bridge.",
       "Replaced generic source references with evidence IDs and calibrated confidence.",
       "Published shared-data report, compact /review and machine-readable /submission.json.",
-      "Kept personal attestation separate from content completion; no fabricated certification."
+      "Published the student’s personally confirmed review separately from the AI-analysis provenance."
     ]
   }
 }
